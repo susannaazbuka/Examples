@@ -1,0 +1,15 @@
+C:\Users\sagajanyan001\Desktop\Geek Brains\Examples\Example003-004_Sum_Div\bin\Debug\net6.0\Example003-004_Sum_Div.exe
+C:\Users\sagajanyan001\Desktop\Geek Brains\Examples\Example003-004_Sum_Div\bin\Debug\net6.0\Example003-004_Sum_Div.deps.json
+C:\Users\sagajanyan001\Desktop\Geek Brains\Examples\Example003-004_Sum_Div\bin\Debug\net6.0\Example003-004_Sum_Div.runtimeconfig.json
+C:\Users\sagajanyan001\Desktop\Geek Brains\Examples\Example003-004_Sum_Div\bin\Debug\net6.0\Example003-004_Sum_Div.dll
+C:\Users\sagajanyan001\Desktop\Geek Brains\Examples\Example003-004_Sum_Div\bin\Debug\net6.0\Example003-004_Sum_Div.pdb
+C:\Users\sagajanyan001\Desktop\Geek Brains\Examples\Example003-004_Sum_Div\obj\Debug\net6.0\Example003-004_Sum_Div.csproj.AssemblyReference.cache
+C:\Users\sagajanyan001\Desktop\Geek Brains\Examples\Example003-004_Sum_Div\obj\Debug\net6.0\Example003-004_Sum_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagajanyan001\Desktop\Geek Brains\Examples\Example003-004_Sum_Div\obj\Debug\net6.0\Example003-004_Sum_Div.AssemblyInfoInputs.cache
+C:\Users\sagajanyan001\Desktop\Geek Brains\Examples\Example003-004_Sum_Div\obj\Debug\net6.0\Example003-004_Sum_Div.AssemblyInfo.cs
+C:\Users\sagajanyan001\Desktop\Geek Brains\Examples\Example003-004_Sum_Div\obj\Debug\net6.0\Example003-004_Sum_Div.csproj.CoreCompileInputs.cache
+C:\Users\sagajanyan001\Desktop\Geek Brains\Examples\Example003-004_Sum_Div\obj\Debug\net6.0\Example003-004_Sum_Div.dll
+C:\Users\sagajanyan001\Desktop\Geek Brains\Examples\Example003-004_Sum_Div\obj\Debug\net6.0\refint\Example003-004_Sum_Div.dll
+C:\Users\sagajanyan001\Desktop\Geek Brains\Examples\Example003-004_Sum_Div\obj\Debug\net6.0\Example003-004_Sum_Div.pdb
+C:\Users\sagajanyan001\Desktop\Geek Brains\Examples\Example003-004_Sum_Div\obj\Debug\net6.0\Example003-004_Sum_Div.genruntimeconfig.cache
+C:\Users\sagajanyan001\Desktop\Geek Brains\Examples\Example003-004_Sum_Div\obj\Debug\net6.0\ref\Example003-004_Sum_Div.dll
